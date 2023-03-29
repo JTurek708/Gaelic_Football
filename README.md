@@ -1,2 +1,2 @@
-# Gaelic_Football
+# Gaelic Football & Hurling
 Data, code, visuals for GAA-related analysis
