@@ -7,10 +7,10 @@ Date,competition,home_team,home_goals,home_points,away_team,away_goals,away_poin
 5/21/16,Leinster GAA Football Senior Championship,Wexford,0,8,Kildare,0,9,8,9
 5/22/16,Connacht GAA Football Senior Championship,Leitrim,0,11,Roscommon,1,21,11,24
 5/22/16,Ulster GAA Football Senior Championship,Derry,0,12,Tyrone,3,14,12,23
-5/29/22,Connacht GAA Football Senior Championship,London,0,9,Mayo,2,16,9,22
-5/29/22,Munster GAA Football Senior Championship,Limerick,0,13,Clare,0,16,13,16
-5/29/22,Munster GAA Football Senior Championship,Waterford,1,7,Tipperary,1,15,10,18
-5/29/22,Ulster GAA Football Senior Championship,Cavan,2,16,Armagh,0,14,22,14
+5/29/16,Connacht GAA Football Senior Championship,London,0,9,Mayo,2,16,9,22
+5/29/16,Munster GAA Football Senior Championship,Limerick,0,13,Clare,0,16,13,16
+5/29/16,Munster GAA Football Senior Championship,Waterford,1,7,Tipperary,1,15,10,18
+5/29/16,Ulster GAA Football Senior Championship,Cavan,2,16,Armagh,0,14,22,14
 6/4/16,Leinster GAA Football Senior Championship,Laois,2,10,Dublin,2,21,16,27
 6/5/16,Ulster GAA Football Senior Championship,Monaghan,2,22,Down,0,9,28,9
 6/12/16,Connacht GAA Football Senior Championship,Roscommon,4,16,Sligo,2,13,28,19
@@ -1179,3 +1179,53 @@ Date,competition,home_team,home_goals,home_points,away_team,away_goals,away_poin
 5/20/23,Tailteann Cup Rd 2,Laois,1,11,Offaly,1,11,14,14
 5/21/23,GAA Football All-Ireland Senior Championship Rd 1,Sligo,0,14,Kildare,0,14,14,14
 5/21/23,Tailteann Cup Rd 2,Tipperary,0,6,Down,2,18,6,24
+5/27/23,GAA Football All-Ireland Senior Championship Rd 1,Louth,1,17,Cork,1,19,20,22
+5/27/23,GAA Football All-Ireland Senior Championship Rd 1,Armagh,1,13,Westmeath,1,12,16,15
+5/27/23,GAA Football All-Ireland Senior Championship Rd 1,Derry,0,14,Monaghan,0,14,14,14
+5/28/23,GAA Football All-Ireland Senior Championship Rd 1,Dublin,1,11,Roscommon,0,14,14,14
+6/3/23,GAA Football All-Ireland Senior Championship Rd 2,Cork,0,15,Kerry,1,14,15,17
+6/3/23,GAA Football All-Ireland Senior Championship Rd 2,Westmeath,0,12,Galway,0,20,12,20
+6/3/23,GAA Football All-Ireland Senior Championship Rd 2,Kildare,0,13,Dublin,0,22,13,22
+6/3/23,GAA Football All-Ireland Senior Championship Rd 2,Tyrone,0,13,Armagh,0,11,13,11
+6/3/23,Tailteann Cup Rd 3,Meath,1,11,Down,1,9,14,12
+6/3/23,Tailteann Cup Rd 3,Tipperary,0,17,Waterford,1,13,17,16
+6/3/23,Tailteann Cup Rd 3,Cavan,2,25,Offaly,2,9,31,15
+6/3/23,Tailteann Cup Rd 3,Laois,1,17,London,2,14,20,20
+6/4/23,GAA Football All-Ireland Senior Championship Rd 2,Mayo,0,14,Louth,1,10,14,13
+6/4/23,GAA Football All-Ireland Senior Championship Rd 2,Monaghan,1,23,Clare,1,18,26,21
+6/4/23,GAA Football All-Ireland Senior Championship Rd 2,Roscommon,1,21,Sligo,1,11,24,14
+6/4/23,GAA Football All-Ireland Senior Championship Rd 2,Donegal,1,15,Derry,3,14,18,23
+6/4/23,Tailteann Cup Rd 3,Limerick,1,10,Wicklow,2,14,13,20
+6/4/23,Tailteann Cup Rd 3,Longford,1,14,Carlow,2,13,17,19
+6/4/23,Tailteann Cup Rd 3,Fermanagh,1,12,Antrim,3,13,15,22
+6/4/23,Tailteann Cup Rd 3,Wexford,1,16,Leitrim,1,12,19,15
+6/10/23,Tailteann Cup - Preliminary Quarter Final,Offaly,2,14,Wexford,1,22,20,25
+6/10/23,Tailteann Cup - Preliminary Quarter Final,Carlow,0,15,New_york,0,10,15,10
+6/10/23,Tailteann Cup - Preliminary Quarter Final,Fermanagh,1,9,Laois,1,11,12,14
+6/10/23,Tailteann Cup - Preliminary Quarter Final,Down,1,20,Longford,1,12,23,15
+6/17/23,GAA Football All-Ireland Senior Championship Rd 3,Derry,1,19,Clare,1,13,22,16
+6/17/23,GAA Football All-Ireland Senior Championship Rd 3,Monaghan,0,17,Donegal,0,19,17,19
+6/17/23,Tailteann Cup - Quarter Final,Limerick,0,14,Laois,1,14,14,17
+6/17/23,Tailteann Cup - Quarter Final,Meath,2,23,Wexford,0,12,29,12
+6/17/23,Tailteann Cup - Quarter Final,Cavan,0,15,Down,1,17,15,20
+6/18/23,GAA Football All-Ireland Senior Championship Rd 3,Dublin,3,23,Sligo,0,8,32,8
+6/18/23,GAA Football All-Ireland Senior Championship Rd 3,Roscommon,1,15,Kildare,1,16,18,19
+6/18/23,GAA Football All-Ireland Senior Championship Rd 3,Kerry,5,24,Louth,0,11,39,11
+6/18/23,GAA Football All-Ireland Senior Championship Rd 3,Cork,1,14,Mayo,1,11,17,14
+6/18/23,GAA Football All-Ireland Senior Championship Rd 3,Galway,1,12,Armagh,0,16,15,16
+6/18/23,GAA Football All-Ireland Senior Championship Rd 3,Tyrone,0,18,Westmeath,0,18,18,18
+6/18/23,Tailteann Cup - Quarter Final,Antrim,1,19,Carlow,1,15,22,18
+6/24/23,GAA Football All-Ireland Senior Championship - Preliminary Quarter Final,Cork,1,14,Roscommon,0,16,17,16
+6/24/23,GAA Football All-Ireland Senior Championship - Preliminary Quarter Final,Kildare,0,13,Monaghan,1,11,13,14
+6/24/23,GAA Football All-Ireland Senior Championship - Preliminary Quarter Final,Donegal,0,13,Tyrone,1,18,13,21
+6/25/23,GAA Football All-Ireland Senior Championship - Preliminary Quarter Final,Galway,0,12,Mayo,1,10,12,13
+6/25/23,Tailteann Cup - Semi-Final,Meath,2,16,Antrim,2,14,22,20
+6/25/23,Tailteann Cup - Semi-Final,Down,8,16,Laois,2,12,40,18
+7/1/23,GAA Football All-Ireland Senior Championship - Quarter Final,Kerry,2,18,Tyrone,0,12,24,12
+7/1/23,GAA Football All-Ireland Senior Championship - Quarter Final,Armagh,0,14,Monaghan,0,14,14,14
+7/2/23,GAA Football All-Ireland Senior Championship - Quarter Final,Derry,1,12,Cork,1,8,15,11
+7/2/23,GAA Football All-Ireland Senior Championship - Quarter Final,Dublin,2,17,Mayo,0,11,23,11
+7/15/23,GAA Football All-Ireland Senior Championship - Semi-Final,Dublin,1,17,Monaghan,0,13,20,13
+7/15/23,Tailteann Cup - Final,Down,0,14,Meath,2,13,14,19
+7/16/23,GAA Football All-Ireland Senior Championship - Semi-Final,Kerry,1,17,Derry,1,15,20,18
+7/30/23,GAA Football All-Ireland Senior Championship - Final,Dublin,1,15,Kerry,1,13,18,16
